@@ -1,0 +1,120 @@
+.flex-item {
+    width: 100px;
+    height: 100px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+}
+
+.base {
+    margin-bottom: 15px;
+    background-color: #d0d3d4;
+    border-radius: 4px;
+}
+
+.box1 {
+    border-radius: 20px;
+    margin: 3px ;
+	padding: 3px;
+    border: solid 4px rgb(0, 0, 0);
+    background-color: #63b1bc;
+}
+
+.box2 {
+    border-radius: 20px;
+    margin: 3px ;
+	padding: 3px;
+    border: solid 4px rgb(0, 0, 0);
+    background-color: #1f2a44;
+}
+
+.box3 {
+    border-radius: 20px;
+    margin: 3px ;
+	padding: 3px;
+    border: solid 4px rgb(0, 0, 0);
+    background-color: #ed145b;
+}
+
+.box4 {
+    border-radius: 20px;
+    margin: 3px ;
+	padding: 3px;
+    border: solid 4px rgb(0, 0, 0);
+    background-color: #efb661;
+}
+
+h1 {
+    width: fit-content;
+    margin: auto;
+}
+
+/* Insira o código abaixo */
+
+.container1 {
+    width: 500px;
+	height: fit-content;
+	background-color: aliceblue;
+	border-radius: 25px;
+	border: solid 4px darkblue;
+	margin: 20px ;
+	padding: 35px;
+    
+}
+
+.container2 {
+    width: 500px;
+	height: fit-content;
+	background-color: aliceblue;
+	border-radius: 25px;
+	border: solid 4px darkblue;
+	margin: 20px ;
+	padding: 35px;
+    
+}
+
+.container3 {
+    width: 500px;
+	height: fit-content;
+	background-color: aliceblue;
+	border-radius: 25px;
+	border: solid 4px darkblue;
+	margin: 20px ;
+	padding: 35px;
+   
+}
+
+.container4 {
+    width: 500px;
+	height: fit-content;
+	background-color: aliceblue;
+	border-radius: 25px;
+	border: solid 4px darkblue;
+	margin: 20px ;
+	padding: 35px;
+    
+}
+.container5 {
+    width: 500px;
+	height: fit-content;
+	background-color: aliceblue;
+	border-radius: 25px;
+	border: solid 4px darkblue;
+	margin: 20px ;
+	padding: 35px;
+    
+    
+}
+.container6 {
+    width: 500px;
+	height: fit-content;
+	background-color: aliceblue;
+	border-radius: 25px;
+	border: solid 4px darkblue;
+	margin: 20px ;
+	padding: 35px;
+    
+    
+}
+
+
